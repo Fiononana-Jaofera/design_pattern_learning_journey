@@ -1,7 +1,0 @@
-- Encapsulez ce qui varie
-- Programmer une interface, non une implémentation.
-- Préférez la composition à l'héritage.
-
-Le pattern Stratégie définit une famille d’algorithmes, encapsule chacun d’eux et les rend interchangeables. Stratégie permet à l’algorithme de varier indépendamment des clients qui l’utilisent.
-
-encapsule: Enfermer un objet dans une interface commune pour le rendre interchangeable
